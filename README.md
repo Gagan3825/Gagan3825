@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gagan3825
-- 👀 I’m interested in ...java , android development
+- 👀 I’m interested in ...java , Kotlin, android development
 - 🌱 I’m currently learning ...Android and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

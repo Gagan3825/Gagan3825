@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gagan3825
-- 👀 I’m interested in ...java , Kotlin, android development,React Native
-- 🌱 I’m currently learning ...Android and Java,React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...java , React,NodeJs,Express
+- 🌱 I’m currently learning ...MERN Stack
+
 
 <!---
 Gagan3825/Gagan3825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

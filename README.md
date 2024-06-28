@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gagan3825
+- 👋 Hi, I’m @Gagan
 - 👀 I’m interested in ...java , React,NodeJs,Express
 - 🌱 I’m currently learning ...MERN Stack
 
